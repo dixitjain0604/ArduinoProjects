@@ -1,5 +1,7 @@
-#Arduino Projects Collection 🤖
+Arduino Projects Collection 🤖
+
 A comprehensive collection of Arduino projects ranging from beginner-friendly to advanced implementations. This repository serves as both a learning resource and a reference for Arduino enthusiasts.
+
 🎯 Overview
 This repository contains a curated set of Arduino projects designed to help you progress from basic concepts to complex applications. Each project includes detailed documentation, circuit diagrams, and thoroughly commented code.
 📚 Project Categories
