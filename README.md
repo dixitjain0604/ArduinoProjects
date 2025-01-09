@@ -47,7 +47,7 @@ USB cable for programming
 
 Clone this repository:
 
-bashCopygit clone https://github.com/arduino-projects.git
+bashCopygit clone https://github.com/dixitjain0604/ArduinoProjects
 
 Navigate to the project you want to try
 Open the .ino file with Arduino IDE
